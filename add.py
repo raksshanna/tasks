@@ -1,3 +1,3 @@
 print("helo ")
-a=23
+a=20
 b=3
